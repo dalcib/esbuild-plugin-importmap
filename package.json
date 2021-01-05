@@ -1,0 +1,27 @@
+{
+  "name": "esbuild-plugin-importmap",
+  "description": "Resolve modules according to the 'importmap'",
+  "version": "0.1.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dalci de Jesus Bagolin <dalci.b+npm@gmail.com> (https://github.org/dalcib)",
+  "license": "MIT",
+  "dependencies": {
+    "deno-importmap": "^0.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.8.29"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalcib/esbuild-plugin-importmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dalcib/esbuild-plugin-importmap/issues"
+  },
+  "homepage": "https://github.com/dalcib/esbuild-plugin-importmap#readme"
+}
